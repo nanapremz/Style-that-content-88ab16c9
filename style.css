@@ -1,0 +1,24 @@
+.navbar {
+    display: flex;
+	justify-content: space-around;
+	align-items: center;
+	background-color: #FF8C00;
+}
+
+
+.content {
+	display: flex;
+	flex-flow: row wrap;
+	align-items: center;
+	justify-content: center;
+	background: #faebd7
+}
+
+.news {
+	width: 33%;
+	}
+
+.content p {
+	align-items: center;
+	width: 100%;
+}
